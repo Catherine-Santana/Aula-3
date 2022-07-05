@@ -1,0 +1,14 @@
+<html>
+<head>
+<center>
+<title> Inteligência Artificial</title>
+</center>
+</head>
+<body background="inte.jpg">
+<font face="Arial" color="white">
+<h1> Inteligência Artificial </h1>
+<h2> Qual a importância da Inteligência Artificial? </h2>
+<h3> * A IA automatiza a aprendizagem repetitiva e a descoberta a partir dos dados. Mas a inteligência artificial é diferente da automação robótica guiada por hardwares. Em vez de automatizar tarefas manuais, a IA realiza tarefas frequentes, volumosas e computadorizadas de modo confiável e sem fadiga. Para este tipo de automação, a interferência humana ainda é essencial na configuração do sistema e para fazer as perguntas certas;  </h3>
+<h3> * A IA adiciona inteligência a produtos existentes. Na maioria dos casos, a inteligência artificial não será vendida como uma aplicação individual. Pelo contrário, os produtos que você já utiliza serão aprimorados com funcionalidades de IA, de maneira parecida como a Siri foi adicionada aos produtos da Apple. Automação, plataformas de conversa, robôs e aparelhos inteligentes podem ser combinados com grandes quantidades de dados para aprimorar muitas tecnologias para casa e escritório, de inteligência em segurança à análise de investimentos; </h3> <h3> * A IA se adapta através de algoritmos de aprendizagem progressiva para deixar que os dados façam a programação. A IA encontra estruturas e regularidades nos dados para que o algoritmo adquira uma capacidade: ele se torna um classificador ou predicador. Então, assim como o algoritmo pode ensinar a si mesmo a jogar xadrez, ele pode ensinar a si mesmo quais produtos recomendar em seguida. E os modelos se adaptam quando recebem mais dados. Propagação retroativa é uma técnica de IA que permite que o modelo se ajuste, através de treinamento e com a entrada de novos dados, quando a primeira resposta não está totalmente correta; </h3>
+<br>
+<img scr="cerebro2.png" width="100" height="100" border="5">
